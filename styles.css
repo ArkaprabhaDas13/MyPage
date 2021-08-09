@@ -1,0 +1,65 @@
+
+
+h1
+{
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+h3{
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.page1
+{
+    background-color: rgb(247, 84, 119);
+    padding-bottom: 500px;
+
+}
+
+.page2
+{
+    padding-bottom: 885px;
+    }
+
+.hello
+{
+    color: black;
+    position: relative;
+    top: 443px;
+
+}
+
+.intro
+{
+    width: 50%;
+    position: relative;
+    top: 470px;
+}
+
+.page3
+{
+    background-color: rgb(247, 84, 119);
+}
+
+.cat
+{
+    height: 688px;
+    width: 345px;
+}
+
+.leaf
+{
+    height: 688px;
+    width: 345px;
+}
+
+.street
+{
+    height: 688px;
+    width: 345px;
+}
+
+#row1
+{
+
+}
